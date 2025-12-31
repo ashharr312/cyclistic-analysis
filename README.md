@@ -29,5 +29,6 @@ This project analyses Cyclistic bikeshare usage to understand behavioural differ
 
 ## Files Included
 - `slides.pdf` – Exported Google Slides deck  
-- `tableau_dashboard.twbx` – Full Tableau dashboard  
+- `tableau_dashboard.twbx` –  The full Cyclistic Tableau dashboard can be downloaded below:  
+[Download Cyclistic Tableau Dashboard](https://drive.google.com/file/d/1HICyicpvUsGAuV1Dz5lSaEQUEsiWfOqE/view?usp=sharing)
 - `charts/` – Exported chart images for reference
